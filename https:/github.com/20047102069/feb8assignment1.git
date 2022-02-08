@@ -1,0 +1,20 @@
+#comparision operator programme
+a=int(input())
+b=int(input())
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
+print(a==b)
+print(a!=b)
+
+
+Output:
+10
+20
+False
+True
+False
+True
+False
+True
