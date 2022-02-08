@@ -1,0 +1,8 @@
+#convert km to cm
+kilometer=float(input())
+centimeter=kilometer*100000
+print(centimeter)
+
+Output
+2.5
+250000.0
